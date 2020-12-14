@@ -1,0 +1,15 @@
+Source: revpi-repo
+Section: contrib/electronics
+Priority: extra
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>=9), dh-exec
+Maintainer: Kunbus <admin@kunbus.de>
+Homepage: https://revolution.kunbus.com/
+
+Package: revpi-repo
+Architecture: all
+Depends: apt
+Description: Revolution Pi package repository
+ APT source and GnuPG keys for the Revolution Pi package repository.
+ Revolution Pi is a set of IoT products based on the Raspberry Pi and
+ geared towards industrial usage.

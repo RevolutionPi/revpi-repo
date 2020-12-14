@@ -1,0 +1,4 @@
+#!/usr/bin/dh-exec
+revpi.list teamviewer-revpi.list	/etc/apt/sources.list.d
+revpi.gpg  teamviewer-revpi.gpg		/etc/apt/trusted.gpg.d
+teamviewer-revpi.pref			/etc/apt/preferences.d
