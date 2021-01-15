@@ -1,4 +1,4 @@
-revpi-repo (2.0.0+deb10u1) stable; urgency=medium
+revpi-repo (2.0.0) stable; urgency=medium
 
   * switch the repo to revpi buster
 
