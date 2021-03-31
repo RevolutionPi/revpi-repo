@@ -1,3 +1,10 @@
+revpi-repo (2.0.1) stable; urgency=medium
+
+  [ Zhi Han ]
+  * Add the source URIs to revpi.list
+
+ -- Philipp Rosenberger <p.rosenberger@kunbus.com>  Wed, 31 Mar 2021 12:52:19 +0200
+
 revpi-repo (2.0.0) stable; urgency=medium
 
   * switch the repo to revpi buster
