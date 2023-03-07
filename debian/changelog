@@ -1,3 +1,9 @@
+revpi-repo (3.0.0-1+revpi11+1) bullseye; urgency=medium
+
+  * Update package list to Bullseye
+
+ -- Nicolai Buchwitz <n.buchwitz@kunbus.com>  Tue, 07 Mar 2023 11:50:49 +0100
+
 revpi-repo (2.0.1) stable; urgency=medium
 
   * add the source URIs for revpi repository

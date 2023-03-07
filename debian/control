@@ -2,12 +2,12 @@ Source: revpi-repo
 Section: contrib/electronics
 Priority: extra
 Rules-Requires-Root: no
-Build-Depends: debhelper-compat (= 12)
-Standards-Version: 4.3.0
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
 Maintainer: KUNBUS GmbH <support@kunbus.com>
 Homepage: https://revolutionpi.com/
 Vcs-Browser: https://github.com/RevolutionPi/revpi-repo
-Vcs-Git: https://github.com/RevolutionPi/revpi-repo.git
+Vcs-Git: https://github.com/RevolutionPi/revpi-repo.git -b raspios/bullseye
 
 Package: revpi-repo
 Architecture: all
