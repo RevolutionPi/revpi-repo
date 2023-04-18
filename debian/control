@@ -2,7 +2,9 @@ Source: revpi-repo
 Section: contrib/electronics
 Priority: extra
 Rules-Requires-Root: no
-Build-Depends: debhelper-compat (= 13)
+Build-Depends:
+  cmake,
+  debhelper-compat (= 13)
 Standards-Version: 4.5.1
 Maintainer: KUNBUS GmbH <support@kunbus.com>
 Homepage: https://revolutionpi.com/
