@@ -1,0 +1,13 @@
+X-Repolib-Name: Revolution Pi
+Enabled: yes
+Types: deb
+URIs: http://packages.revolutionpi.de/
+Suites: bookworm bookworm-backports
+Components: main contrib
+
+X-Repolib-Name: Revolution Pi Sources
+Enabled: no
+Types: deb-src
+URIs: http://packages.revolutionpi.de/
+Suites: bookworm bookworm-backports
+Components: main contrib
