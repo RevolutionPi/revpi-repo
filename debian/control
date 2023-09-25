@@ -1,6 +1,6 @@
 Source: revpi-repo
-Section: contrib/electronics
-Priority: extra
+Section: electronics
+Priority: optional
 Rules-Requires-Root: no
 Build-Depends:
   cmake,
