@@ -13,7 +13,9 @@ Vcs-Git: https://github.com/RevolutionPi/revpi-repo.git -b raspios/bullseye
 
 Package: revpi-repo
 Architecture: all
-Depends: apt
+Depends:
+  ${misc:Depends},
+  apt
 Description: Revolution Pi package repository
  APT source and GnuPG keys for the Revolution Pi package repository.
  Revolution Pi is a set of IoT products based on the Raspberry Pi and
