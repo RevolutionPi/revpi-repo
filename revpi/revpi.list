@@ -1,4 +1,0 @@
-deb http://packages.revolutionpi.de/ bullseye main contrib
-#deb-src http://packages.revolutionpi.de/ bullseye main contrib
-deb http://packages.revolutionpi.de/ bullseye-backports main contrib
-#deb-src http://packages.revolutionpi.de/ bullseye-backports main contrib
