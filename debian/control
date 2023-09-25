@@ -5,11 +5,11 @@ Rules-Requires-Root: no
 Build-Depends:
   cmake,
   debhelper-compat (= 13)
-Standards-Version: 4.5.1
+Standards-Version: 4.6.2
 Maintainer: KUNBUS GmbH <support@kunbus.com>
 Homepage: https://revolutionpi.com/
-Vcs-Browser: https://github.com/RevolutionPi/revpi-repo
-Vcs-Git: https://github.com/RevolutionPi/revpi-repo.git -b raspios/bullseye
+Vcs-Browser: https://gitlab.com/RevolutionPi/revpi-repo
+Vcs-Git: https://gitlab.com/RevolutionPi/revpi-repo.git -b raspios/bookworm
 
 Package: revpi-repo
 Architecture: all
