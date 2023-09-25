@@ -1,3 +1,17 @@
+revpi-repo (12.0.0-1+revpi12+1) bookworm; urgency=medium
+
+  [ Thomas Böhler ]
+  * chore: Add move to GitLab to README
+
+  [ Sven Sager ]
+  * feat!: Update package list to Debian bookworm
+  * fix: Change source list to DEB 822 format
+  * packaging: Fix deprecated values in control file
+  * packaging: Add misc:depends placeholder in control file
+  * packaging: Update debian files for debian bookworm
+
+ -- Sven Sager <s.sager@kunbus.com>  Mon, 25 Sep 2023 15:01:35 +0200
+
 revpi-repo (3.0.0-1+revpi11+1) bullseye; urgency=medium
 
   [ Nicolai Buchwitz ]
