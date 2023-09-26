@@ -1,3 +1,10 @@
+revpi-repo (12.1.0-1+revpi12+1) bookworm; urgency=medium
+
+  * feat: Set new default location for gpg files
+  * fix: Change source list of teamviewer to DEB 822 format
+
+ -- Sven Sager <s.sager@kunbus.com>  Tue, 26 Sep 2023 17:40:20 +0200
+
 revpi-repo (12.0.0-1+revpi12+1) bookworm; urgency=medium
 
   [ Thomas Böhler ]
