@@ -7,7 +7,7 @@ install(
 
 install(
     FILES teamviewer-revpi.gpg
-    DESTINATION ${CMAKE_INSTALL_SYSCONFDIR}/apt/trusted.gpg.d
+    DESTINATION /usr/share/keyrings
 )
 
 install(

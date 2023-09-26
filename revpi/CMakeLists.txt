@@ -7,5 +7,5 @@ install(
 
 install(
     FILES revpi.gpg
-    DESTINATION ${CMAKE_INSTALL_SYSCONFDIR}/apt/trusted.gpg.d/
+    DESTINATION /usr/share/keyrings/
 )
