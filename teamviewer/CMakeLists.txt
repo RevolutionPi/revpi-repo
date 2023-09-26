@@ -1,13 +1,13 @@
 # SPDX-License-Identifier: GPL-2.0-or-later
 
 install(
-    FILES teamviewer-revpi.list
+    FILES teamviewer-revpi.sources
     DESTINATION ${CMAKE_INSTALL_SYSCONFDIR}/apt/sources.list.d
 )
 
 install(
     FILES teamviewer-revpi.gpg
-    DESTINATION ${CMAKE_INSTALL_SYSCONFDIR}/apt/trusted.gpg.d
+    DESTINATION /usr/share/keyrings
 )
 
 install(
