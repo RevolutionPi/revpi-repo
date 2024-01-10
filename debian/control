@@ -9,7 +9,7 @@ Standards-Version: 4.6.2
 Maintainer: KUNBUS GmbH <support@kunbus.com>
 Homepage: https://revolutionpi.com/
 Vcs-Browser: https://gitlab.com/RevolutionPi/revpi-repo
-Vcs-Git: https://gitlab.com/RevolutionPi/revpi-repo.git -b raspios/bookworm
+Vcs-Git: https://gitlab.com/RevolutionPi/revpi-repo.git -b debian/bookworm
 
 Package: revpi-repo
 Architecture: all
