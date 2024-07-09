@@ -1,7 +1,0 @@
-Package: teamviewer-revpi
-Pin: origin "repository.teamviewer.com"
-Pin-Priority: 990
-
-Package: *
-Pin: origin "repository.teamviewer.com"
-Pin-Priority: -1

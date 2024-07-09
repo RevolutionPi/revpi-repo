@@ -7,4 +7,3 @@ project(revpi-repo LANGUAGES NONE)
 include(GNUInstallDirs)
 
 add_subdirectory(revpi)
-add_subdirectory(teamviewer)
