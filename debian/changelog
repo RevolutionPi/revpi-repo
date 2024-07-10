@@ -1,3 +1,13 @@
+revpi-repo (12.2.0-1+deb12+1) bookworm; urgency=medium
+
+  [ Philipp Rosenberger ]
+  * Switch back to the debian/ namespace
+
+  [ Nicolai Buchwitz ]
+  * feat!: Drop teamviewer repo with Bookworm
+
+ -- Sven Sager <s.sager@kunbus.com>  Wed, 10 Jul 2024 07:00:01 +0200
+
 revpi-repo (12.1.0-1+revpi12+1) bookworm; urgency=medium
 
   * feat: Set new default location for gpg files
