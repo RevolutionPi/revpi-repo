@@ -1,7 +1,0 @@
-X-Repolib-Name: TeamViewer for Revolution Pi
-Enabled: no
-Types: deb
-URIs: http://repository.teamviewer.com/deb
-Suites: stable
-Components: tvrevpi
-Signed-By: /usr/share/keyrings/teamviewer-revpi.gpg
