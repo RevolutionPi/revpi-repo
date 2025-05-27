@@ -2,7 +2,7 @@ X-Repolib-Name: Revolution Pi
 Enabled: yes
 Types: deb
 URIs: http://packages.revolutionpi.de/
-Suites: bookworm bookworm-backports
+Suites: trixie trixie-backports
 Components: main contrib
 Signed-By: /usr/share/keyrings/revpi.gpg
 
@@ -10,6 +10,6 @@ X-Repolib-Name: Revolution Pi Sources
 Enabled: no
 Types: deb-src
 URIs: http://packages.revolutionpi.de/
-Suites: bookworm bookworm-backports
+Suites: trixie trixie-backports
 Components: main contrib
 Signed-By: /usr/share/keyrings/revpi.gpg
