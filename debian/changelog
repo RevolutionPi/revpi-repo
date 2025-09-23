@@ -1,3 +1,11 @@
+revpi-repo (13.0.0-1+deb13+1) trixie; urgency=medium
+
+  [ Nicolai Buchwitz ]
+  * feat!: Update repo file to trixie
+  * feat(deb): Update debian files for debian trixie
+
+ -- Sven Sager <s.sager@kunbus.com>  Tue, 23 Sep 2025 11:04:05 +0200
+
 revpi-repo (12.2.0-1+deb12+1) bookworm; urgency=medium
 
   [ Philipp Rosenberger ]
